@@ -1,0 +1,7 @@
+User,short breath,palpitations,fast heartbeat,dizzy,nausea,sweating,discomfort,indigestion,chest discomfort,fainting,fatigue,fever,diarrhea,belly pain,vomiting,dry mouth,fast heartrate,itchy ears,swelling ears,earache,hearing problem,tinnitus,cough,ear discharge,sneezing,runny nose,sore throat,Specialist
+1,1,1,,1,1,1,,1,1,1,,,,,,,,,,,,,,,,,,Cardiologist
+2,1,,1,1,,1,1,,1,,,,,,,,,,,,,,,,,,,Cardiologist
+,,,,,,1,,,,,1,,,,,1,,,,,,,,,,,,Physician
+,,,,,,1,,,,,1,,1,,,1,,,,,,,,,,,,Physician
+,,,,,,,,,,,,,,,,,,1,,1,,1,1,,1,,1,ENT Specialist
+,,,,,,,,,,,,,,,,,,1,1,1,1,,,1,1,1,,ENT Specialist
